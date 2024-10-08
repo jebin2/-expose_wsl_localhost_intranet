@@ -10,5 +10,6 @@ This script allows you to create or delete port proxies and manage firewall rule
 git clone https://github.com/jebin2/expose_wsl_localhost_intranet.git
 cd expose_wsl_localhost_intranet
 .\wsllocallist.bat
+```
 
 ![Output](images/output.png)
