@@ -11,4 +11,4 @@ git clone https://github.com/jebin2/expose_wsl_localhost_intranet.git
 cd expose_wsl_localhost_intranet
 .\wsllocallist.bat
 
-![Output](/output.png)
+![Output](images/output.png)
