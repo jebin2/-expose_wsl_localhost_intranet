@@ -1,6 +1,6 @@
-# Port Proxy Management Script
+# Exposing WSL Server in intranet
 
-This script allows you to create or delete port proxies and manage firewall rules on a Windows system to expose WSL localhost to the intranet. Administrator privileges are required.
+This script allows you to create or delete port proxies and manage firewall rules on a Windows system to expose WSL Server to the intranet. Administrator privileges are required.
 
 ## Usage
 
