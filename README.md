@@ -1,1 +1,1 @@
-# -expose_wsl_localhost_intranet
+# expose_wsl_localhost_intranet
